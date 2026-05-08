@@ -25,4 +25,4 @@ Um uns das notwendige Rüstzeug zu verschaffen machen wir einen Dreisprung:
 2. Wir vibecoden uns eine Kellerverwaltungs-App mit der wir unseren Weinbestand im Keller inventarisieren
 3. wir bauen eine Rebbergverwaltungs-Software, die Daten aus dem Rebberg auswerten und darstellen kann.
 
-
+Mehr dazu im nächsten Blogbeitrag.
