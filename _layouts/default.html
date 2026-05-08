@@ -8,9 +8,12 @@
     <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
 </head>
 <body>
-    <header>
+    <header class="site-header">
         <nav>
-            <a href="{{ '/' | relative_url }}" class="logo">{{ site.title }}</a>
+            <a href="{{ '/' | relative_url }}" class="logo-container">
+                <img src="{{ '/assets/turmfalke.png' | relative_url }}" alt="Turmfalke Logo" class="menu-logo">
+                <span class="logo">{{ site.title }}</span>
+            </a>
             <a href="https://haeusler-wein.ch/" class="back-link">← Häusler Wein</a>
         </nav>
     </header>

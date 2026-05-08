@@ -28,7 +28,7 @@ h1, h2, h3, h4, .logo {
 }
 
 /* Header */
-header {
+.site-header {
     background-color: #fff;
     border-bottom: 1px solid rgba(166, 42, 23, 0.2);
     position: fixed;
@@ -37,13 +37,25 @@ header {
     z-index: 1000;
 }
 
-nav {
+.site-header nav {
     max-width: 900px;
     margin: 0 auto;
     padding: 1.5rem 2rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    text-decoration: none;
+}
+
+.menu-logo {
+    width: 40px;
+    height: auto;
 }
 
 .logo {
@@ -187,7 +199,7 @@ footer a:hover {
 
 /* Mobile */
 @media (max-width: 768px) {
-    header {
+    .site-header {
         position: sticky;
     }
 
@@ -196,12 +208,16 @@ footer a:hover {
         padding: 2rem 1.5rem;
     }
 
-    nav {
+    .site-header nav {
         padding: 0.75rem 1rem;
     }
 
     .logo {
         font-size: 1.4rem;
+    }
+
+    .menu-logo {
+        width: 32px;
     }
 
     .back-link {
