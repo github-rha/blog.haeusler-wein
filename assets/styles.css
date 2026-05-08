@@ -133,6 +133,28 @@ main {
     margin-bottom: 1.5rem;
 }
 
+.post-content ul,
+.post-content ol {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin: 0 0 1.5rem;
+    padding-left: 2rem;
+}
+
+.post-content li {
+    margin-bottom: 0.4rem;
+    padding-left: 0.25rem;
+}
+
+.post-content li::marker {
+    color: #A62A17;
+}
+
+.post-content li > ul,
+.post-content li > ol {
+    margin: 0.4rem 0 0.4rem;
+}
+
 .post-content h2,
 .post-content h3 {
     color: #A62A17;
