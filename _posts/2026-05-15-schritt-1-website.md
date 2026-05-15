@@ -18,7 +18,7 @@ Erster Anlauf, letztes Jahr, mit [Windsurf](https://windsurf.com). Das Ergebnis 
 
 Anfang Jahr dann neuer Anlauf mit Claude Code, Opus 4.5 und mehr System.
 
-«Mehr System» heisst: drei kurze Dokumente im [Repo](https://github.com/github-rha/haeusler-wein) — [`vision.md`](https://github.com/github-rha/haeusler-wein/blob/main/docs/vision.md), [`architecture.md`](https://github.com/github-rha/haeusler-wein/blob/main/docs/architecture.md), [`operations.md`](https://github.com/github-rha/haeusler-wein/blob/main/docs/operations.md). Mit der KI diskutiert, von der KI generiert, von uns justiert. Beispiel: 
+«Mehr System» heisst: drei kurze Dokumente im Repo — [`vision.md`](https://github.com/github-rha/haeusler-wein/blob/main/docs/vision.md), [`architecture.md`](https://github.com/github-rha/haeusler-wein/blob/main/docs/architecture.md), [`operations.md`](https://github.com/github-rha/haeusler-wein/blob/main/docs/operations.md). Mit der KI diskutiert, von der KI generiert, von uns justiert. Beispiel: 
 
 > # Vision — haeusler-wein.ch
 > 
