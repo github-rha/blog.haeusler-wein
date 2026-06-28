@@ -3,3 +3,7 @@ description: Notizen aus dem Rebberg, Vibe Coding und mehr.
 lang: de
 url: https://blog.haeusler-wein.ch
 permalink: pretty
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
