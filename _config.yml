@@ -7,3 +7,11 @@ permalink: pretty
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
+
+# Default social-card image for jekyll-seo-tag (og:image / twitter:image)
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/social-card.png
