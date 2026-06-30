@@ -28,7 +28,7 @@ Machen wir es interessant. Die technischen Vorgaben:
 * offline-first: die Daten liegen auf dem Telefon, das Netz braucht es nur zum Sichern.
 * alles privat: Synchronisation in ein eigenes GitHub-Repo, kein fremder Server.
 
-Gleiche Methode wie bei der Webseite, mehr System: wieder ein paar kurze Dokumente im Repo —
+Gleiche Methode wie bei der Webseite, mehr System: wieder ein paar kurze Dokumente im Repo.
 
 * [`vision.md`](https://github.com/github-rha/kellerverwaltung/blob/main/docs/vision.md)
 * [`architecture.md`](https://github.com/github-rha/kellerverwaltung/blob/main/docs/architecture.md)
