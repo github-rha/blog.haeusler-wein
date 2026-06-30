@@ -58,6 +58,10 @@ Zwei Funktionen bedienen sich bei Claude APIs:
 * **Etikett lesen** — ein Foto vom Etikett, und Claude liest Produzent, Name, Jahrgang und Land heraus und füllt das Formular aus.
 * **Sommelier** — ein Gericht in Worten beschreiben, und die App schlägt aus dem eigenen Keller die passenden Weine vor, geordnet nach Eignung.
 
+<video src="{{ '/assets/kellerverwaltung-4-etikett.mp4' | relative_url }}" width="300" style="display:block;margin:1.5rem auto;border:1px solid rgba(166, 42, 23, 0.2)" autoplay loop muted playsinline></video>
+
+*Etikett lesen: Foto vom Rücketikett, «Crop & Read», und das Formular füllt sich selbst — Bodegas Vi Rei, Prensal Blanc Cosecha Propia, 2024. Der Bestand wächst von 331 auf 332.*
+
 <img src="{{ '/assets/kellerverwaltung-3-sommelier.jpeg' | relative_url }}" alt="Sommelier-Funktion: Weinvorschläge zu einem Gericht" width="300" style="display:block;margin:1.5rem auto">
 
 *Der Sommelier: «kalbskotelett» eingetippt, als Vorschläge kommen ein Château Palmer 2019, ein Gevrey-Chambertin, eine Romanée-Saint-Vivant — und ein Margaux 2017 mit «Drink now»-Hinweis. Die KI hat einen kostspieligen Geschmack!*
