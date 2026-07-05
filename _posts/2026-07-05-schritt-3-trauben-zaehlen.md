@@ -4,7 +4,9 @@ title: "KI 3, jetzt erst recht: Trauben zählen"
 date: 2026-07-05
 ---
 
-Im nächsten Kapitel unserer KI Geschichte wenden wir uns dem Rebberg zu. Nach erfolglosen Versuchen, ein Inventar zu erstellen (haben es dann manuell gemacht) und mässigen Versuchen, das Pflanzenstadium zu tracken, kommt jetzt eine neue spannende Aufgabestellung.
+Schritt 1 war die [Webseite](/2026/05/15/schritt-1-website/), Schritt 2 die [Kellerverwaltung](/2026/06/28/schritt-2-kellerverwaltung/) — beide handlich, beide fertig. Schritt 3 ist der Rebberg selbst.
+
+ Nach erfolglosen Versuchen, ein Inventar zu erstellen (wir haben es dann manuell gemacht) und mässigen Versuchen, das Pflanzenstadium zu tracken, kommt jetzt eine neue spannende Aufgabestellung.
 
 Wir filmen jede Rebzeile mit dem Telefon und lassen die KI die Trauben zählen, Stock für Stock. Dahinter steckt [SAM 3](https://github.com/facebookresearch/sam3), ein Modell von Meta, gemietet über Replicate: es erkennt jede Traube einzeln und verfolgt sie durchs Video, jede bekommt ihre eigene Farbe.
 
