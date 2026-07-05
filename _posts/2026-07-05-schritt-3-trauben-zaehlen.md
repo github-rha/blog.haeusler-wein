@@ -8,7 +8,7 @@ Schritt 1 war die [Webseite](/2026/05/15/schritt-1-website/), Schritt 2 die [Kel
 
  Nach erfolglosen Versuchen, ein Inventar aus Videoaufnahmen der Rebzeilen zu erstellen (wir haben es dann manuell gemacht) und mässigen Versuchen, das Pflanzenstadium zu tracken, kommt jetzt eine neue spannende Aufgabestellung.
 
-Wir filmen jede Rebzeile mit dem Telefon und lassen die KI die Trauben zählen, Stock für Stock. Dahinter steckt [SAM 3](https://github.com/facebookresearch/sam3), ein Modell von Meta, gemietet über Replicate: es erkennt jede Traube einzeln und verfolgt sie durchs Video, jede bekommt ihre eigene Farbe.
+Wir filmen jede Rebzeile mit dem Telefon und lassen die KI die Trauben zählen, Stock für Stock. Dahinter steckt [SAM 3](https://github.com/facebookresearch/sam3), ein Modell von Meta, gemietet über [Replicate](https://replicate.com): es erkennt jede Traube einzeln und verfolgt sie durchs Video, jede bekommt ihre eigene Farbe.
 
 <img src="{{ '/assets/rebberg-trauben-overlay.jpg' | relative_url }}" alt="Rebzeile mit Trauben, jede Traube von der KI in einer eigenen Farbe markiert" style="display:block;margin:1.5rem auto;max-width:100%;width:600px">
 
