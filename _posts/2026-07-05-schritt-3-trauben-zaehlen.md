@@ -12,7 +12,7 @@ Wir filmen jede Rebzeile mit dem Telefon und lassen die KI die Trauben zählen, 
 
 <img src="{{ '/assets/rebberg-trauben-overlay.jpg' | relative_url }}" alt="Rebzeile mit Trauben, jede Traube von der KI in einer eigenen Farbe markiert" style="display:block;margin:1.5rem auto;max-width:100%;width:600px">
 
-*Zeile 6, Häusler Offenburg: die KI legt über jede Traube eine eigene Maske. Diese Zeile haben wir vor der Blüte entblättert — die Trauben hängen frei.*
+*Zeile 6, Häusler Offenburg: die KI legt über jede Traube eine eigene Maske. Diese Zeile haben wir vor der Blüte stark entblättert — die Trauben hängen frei.*
 
 Aus 19 Videos — zehn Zeilen Häusler Offenburg, neun Zeilen Schaffner Offenburg (unsere Nachbarparzelle) — wird eine Karte. Dunkler heisst mehr Trauben:
 
@@ -23,8 +23,7 @@ Aus 19 Videos — zehn Zeilen Häusler Offenburg, neun Zeilen Schaffner Offenbur
 Was wir sehen:
 
 * Beide Zweigelt-Parzellen tragen praktisch gleich viel — rund sieben sichtbare Trauben pro Stock, Häusler wie Schaffner.
-* Der Diolinoir trägt weniger, dafür grössere Trauben als der Zweigelt.
-* Zeile 6, die entblätterte, hebt sich nicht ab. Die Entblätterung hinterlässt im Bild keine Spur.
+* Zeile 6, die testweise stark entblätterte, hebt sich nicht ab. Die Entblätterung hinterlässt im Bild keine Spur.
 
 Ehrlich bleiben muss man bei den Zahlen: wir filmen eine Seite, in einem Durchgang. Was hinter dem Laub oder auf der Rückseite hängt, sieht die Kamera nie — die KI zählt also zu wenig. Zum Vergleichen von Stock zu Stock reicht es, für den Ertrag in Kilo noch nicht.
 
