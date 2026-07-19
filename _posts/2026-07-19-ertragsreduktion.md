@@ -25,16 +25,16 @@ Zwei Beispiele, eine satte Traube (links) und eine normale (rechts):
 
 *Links die satte Traube, rechts die normale.*
 
-Die satte wird halbiert: von 158 auf 113 Gramm.
+Die satte wird halbiert: von 158 auf 113 Gramm. So bekommen die verbleibenden Beeren Platz zum Wachsen — sonst würden sie sich beim Zulegen gegenseitig zerdrücken.
 
 <img src="{{ '/assets/ertragsreduktion-satte-traube.jpeg' | relative_url }}" alt="Die satte Traube in zwei Teile geschnitten: oben der grössere Teil, der am Stock bleibt, unten die abgeschnittene Hälfte" style="display:block;margin:1.5rem auto;max-width:100%;width:600px">
 
 *Die satte Traube nach dem Schnitt: der obere Teil bleibt am Stock, der untere fällt.*
 
-Bei der normalen kommen die erste Schulter und die Spitze weg: von 103 auf 68 Gramm.
+Bei der normalen kommen die erste Schulter und die Spitze weg: von 103 auf 68 Gramm. Beide sind typischerweise von geringerer Qualität — weniger Zucker, weniger Reife als der Mittelteil.
 
 <img src="{{ '/assets/ertragsreduktion-normale-traube.jpeg' | relative_url }}" alt="Die normale Traube zerlegt: links die abgeschnittene erste Schulter, in der Mitte der Teil, der bleibt, unten die Spitze" style="display:block;margin:1.5rem auto;max-width:100%;width:600px">
 
 *Die normale Traube: links die erste Schulter, unten die Spitze — beides fällt. Die Mitte bleibt.*
 
-Der Endertrag ist das noch nicht: bis zur Lese legen die Trauben noch um bis zu 40 Prozent an Gewicht zu.
+Pro Traube fallen so rund 30 Prozent weg. Der Endertrag ist das noch nicht: bis zur Lese legen die Trauben noch um bis zu 40 Prozent an Gewicht zu.
