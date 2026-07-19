@@ -14,7 +14,7 @@ Kein Unwetter, kein Schädling — das gehört zur Rebarbeit. Ertragsreduktion: 
 
 Dieses Jahr sind wir etwas früh dran, der Farbumschlag setzt gerade erst ein. Das Protokoll ist ähnlich wie letztes Jahr:
 
-* Zwei Trauben pro Stock.
+* Zwei Trauben pro Schoss.
 * Was nicht bis unter den oberen Draht hängt, kommt weg.
 * Die erste Schulter kommt weg.
 * Ist die Traube satt: halbieren. Ist sie locker: Spitze weg.
