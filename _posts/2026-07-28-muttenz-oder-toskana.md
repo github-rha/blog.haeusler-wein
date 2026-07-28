@@ -2,6 +2,7 @@
 layout: post
 title: "Muttenz oder Toskana?"
 date: 2026-07-28
+excerpt: "Der Boden zwischen den Zeilen ist strohgelb, die Sonne brennt, der Himmel wolkenlos. Das Bild könnte aus der Toskana stammen. Aufgenommen ist es in Muttenz."
 ---
 
 <img src="{{ '/assets/muttenz-oder-toskana.jpeg' | relative_url }}" alt="Grüne Rebzeilen unter praller Sonne und wolkenlosem Himmel, der Boden zwischen den Zeilen strohgelb und ausgetrocknet" style="display:block;margin:1.5rem auto;max-width:100%;width:420px">
