@@ -22,7 +22,6 @@
 <text x="46" y="151.6" font-size="10.5" fill="#8a7f83" text-anchor="end">20</text>
 <line x1="54" y1="120.0" x2="672" y2="120.0" stroke="#e7e1df" stroke-width="1"/>
 <text x="46" y="124.0" font-size="10.5" fill="#8a7f83" text-anchor="end">25</text>
-<text x="46" y="118" font-size="10" fill="#8a7f83" text-anchor="end">°C</text>
 <text x="98.1" y="274" font-size="11.5" fill="#6b5f63" text-anchor="middle">Jan</text>
 <text x="186.4" y="274" font-size="11.5" fill="#6b5f63" text-anchor="middle">Feb</text>
 <text x="274.7" y="274" font-size="11.5" fill="#6b5f63" text-anchor="middle">Mär</text>
@@ -58,7 +57,6 @@
 <text x="46" y="378.5" font-size="10.5" fill="#8a7f83" text-anchor="end">75</text>
 <line x1="54" y1="340.0" x2="672" y2="340.0" stroke="#e7e1df" stroke-width="1"/>
 <text x="46" y="344.0" font-size="10.5" fill="#8a7f83" text-anchor="end">100</text>
-<text x="46" y="338" font-size="10" fill="#8a7f83" text-anchor="end">mm</text>
 <text x="98.1" y="494" font-size="11.5" fill="#6b5f63" text-anchor="middle">Jan</text>
 <text x="186.4" y="494" font-size="11.5" fill="#6b5f63" text-anchor="middle">Feb</text>
 <text x="274.7" y="494" font-size="11.5" fill="#6b5f63" text-anchor="middle">Mär</text>
