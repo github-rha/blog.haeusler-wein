@@ -5,18 +5,18 @@ date: 2026-07-28
 excerpt: "Der Boden zwischen den Zeilen ist strohgelb, die Sonne brennt, der Himmel wolkenlos. Das Bild könnte aus der Toskana stammen. Aufgenommen ist es in Muttenz."
 ---
 
+Der Boden zwischen den Zeilen ist strohgelb, die Sonne brennt, der Himmel wolkenlos. Das Bild könnte aus der Toskana stammen. Aufgenommen ist es in Muttenz.
+
 <img src="{{ '/assets/muttenz-oder-toskana.jpeg' | relative_url }}" alt="Grüne Rebzeilen unter praller Sonne und wolkenlosem Himmel, der Boden zwischen den Zeilen strohgelb und ausgetrocknet" style="display:block;margin:1.5rem auto;max-width:100%;width:420px">
 
 *Rebberg «Auf Offenburg», Juli 2026. Grüne Zeilen, brennende Sonne — und dazwischen strohgelber Boden.*
 
-Der Boden zwischen den Zeilen ist strohgelb, die Sonne brennt, der Himmel wolkenlos. Das Bild könnte aus der Toskana stammen. Aufgenommen ist es in Muttenz.
-
-Das Wetter ist dieses Jahr das grosse Thema im Rebberg. Zwei Beobachtungen bringen es auf den Punkt:
+Das Wetter ist dieses Jahr das grosse Thema im Rebberg. Das Rebjahr startete bereits fulminant und früh:
 
 * Die Blüte kam früh, in der ersten Juniwoche.
 * Der Farbumschlag setzte um den 20. Juli ein — ebenfalls früh.
 
-Beides sind Zeichen für ein warmes Jahr. Ein Blick auf die Zahlen bestätigt es. Eine eigene Wetterstation hat Muttenz nicht; die nächste mit langer Messreihe steht in Binningen, rund 6 km entfernt, im gleichen Rheintal-Klima.
+Beides sind Zeichen für ein warmes Jahr. Wirklich heftig sind dieses Jahr aber die Hitze und die ausbleibenden Niederschläge. Ein Blick auf die Zahlen bestätigt es. Eine eigene Wetterstation hat Muttenz nicht; die nächste mit langer Messreihe steht in Binningen, rund 6 km entfernt, im gleichen Rheintal-Klima.
 
 <img src="{{ '/assets/wetter-2026-basel-binningen.svg' | relative_url }}" alt="Zwei Diagramme für Basel-Binningen: oben die Monatsmitteltemperatur 2026 durchgehend über der Norm 1991–2020, mit dem grössten Abstand im Juni; unten der Niederschlag pro Monat, 2026 ab März deutlich unter der Norm, im Juni und Juli nur ein Bruchteil" style="display:block;margin:1.5rem auto;max-width:100%;width:680px">
 
