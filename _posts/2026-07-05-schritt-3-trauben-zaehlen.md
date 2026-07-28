@@ -2,6 +2,7 @@
 layout: post
 title: "KI 3, jetzt erst recht: Trauben zählen"
 date: 2026-07-05
+image: /assets/rebberg-trauben-overlay.jpg
 ---
 
 Schritt 1 war die [Webseite](/2026/05/15/schritt-1-website/), Schritt 2 die [Kellerverwaltung](/2026/06/28/schritt-2-kellerverwaltung/) — beide handlich, beide fertig. Schritt 3 ist der Rebberg selbst.

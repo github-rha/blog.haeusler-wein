@@ -2,6 +2,7 @@
 layout: post
 title: "Ertragsreduktion"
 date: 2026-07-19
+image: /assets/ertragsreduktion-rebberg.jpeg
 ---
 
 Wer im Sommer durch den Rebberg spaziert, sieht stellenweise Trauben am Boden liegen und fragt sich: «Was ist denn hier passiert?»

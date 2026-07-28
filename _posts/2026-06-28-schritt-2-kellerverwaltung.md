@@ -2,6 +2,7 @@
 layout: post
 title: "KI Liegestütze, Schritt 2: Kellerverwaltung"
 date: 2026-06-28
+image: /assets/kellerverwaltung-1-dashboard.png
 ---
 
 Im [letzten Beitrag](/2026/05/15/schritt-1-website/) war Schritt 1 die Fingerübung: die Webseite von der KI bauen lassen, statisches HTML, kein Zustand. Schritt 2 verlangt mehr. Wir lassen uns eine App coden, die unseren Weinkeller inventarisiert — auf dem iPhone, offline, in unserer eigenen Hand. Hintergrund war, dass die App, mit der ich bisher den Weinkeller inventarisiert habe, meine wichtigste KPI nicht mehr angezeigt hat: den Gesamtbestand an Flaschen...

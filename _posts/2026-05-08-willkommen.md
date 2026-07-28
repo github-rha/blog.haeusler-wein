@@ -2,6 +2,7 @@
 layout: post
 title: Willkommen bei Wein Code
 date: 2026-05-08
+image: /assets/rebberg-offenburg-april-2026.jpeg
 ---
 
 Seit 2024 führen wir den Rebberg «Auf Offenburg» in Muttenz weiter und schreiben damit eine kleine Geschichte fort, die 2005 von unseren Eltern begonnen wurde.

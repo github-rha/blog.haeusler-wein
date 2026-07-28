@@ -2,6 +2,7 @@
 layout: post
 title: "KI Fingerübung, Schritt 1: haeusler-wein.ch"
 date: 2026-05-15
+image: /assets/rebberg-offenburg-guyot-schnitt.jpeg
 ---
 
 Vom Rebberg in die Flasche und aus dem Keller in den Verkauf — ohne diesen letzten Schritt geht es nicht. Mit der Übernahme des Rebbergs stehen wir auch vor der Aufgabe, neue Kundenkreise zu erschliessen. Was bisher fehlte, war eine Webseite, auf die man verweisen kann. Genau das ist [haeusler-wein.ch](https://haeusler-wein.ch).
