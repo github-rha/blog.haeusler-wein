@@ -30,9 +30,9 @@ Das merken die Reben, vor allem die jungen. Ihre Wurzeln reichen noch nicht tief
 
 Den etablierten Reben geht es, den Umständen zum Trotz, gut. Ein Unterschied zeigt sich zwischen den Sorten: der Zweigelt kommt mit der Hitze gut zurecht, besser als der Diolinoir.
 
-Ein warmer, trockener Sommer verspricht einen guten Jahrgang: reife Trauben, viel Zucker, wenig Fäulnis. Zwei Risiken bleiben, und sie treffen uns unterschiedlich hart:
+Ein warmer, trockener Sommer verspricht einen guten Jahrgang: reife Trauben, viel Zucker, wenig Fäulnis. Zwei Dinge haben wir dabei in der Hand:
 
-* Die Menge. Bleibt es trocken, fällt der Ertrag kleiner aus. Für uns kein grosses Problem — wir [reduzieren den Ertrag ohnehin]({% post_url 2026-07-19-ertragsreduktion %}).
-* Die Qualität. Das kleinere Risiko: zu viel Sonne, zu viel Zucker, und der Wein gerät schwer und sirupartig.
+* Die Menge. Bleibt es trocken, fällt der Ertrag kleiner aus. Das kommt uns entgegen, wir [reduzieren den Ertrag ohnehin]({% post_url 2026-07-19-ertragsreduktion %}). Weniger Trauben, dichtere Weine.
+* Die Reife. Viel Sonne bringt viel Zucker, und Zucker allein macht noch keinen guten Wein. Der Lesezeitpunkt entscheidet, ob Kraft und Frische zusammenkommen.
 
-Ob aus dem Toskana-Sommer ein grosser Jahrgang wird, entscheidet sich in den nächsten Wochen.
+Ob der Toskana-Sommer einen grossen Jahrgang hervorbringen wird, entscheidet sich in den nächsten Wochen. Wir sind gespannt!
